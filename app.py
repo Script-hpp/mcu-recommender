@@ -17,7 +17,7 @@ def index():
     if n == 1:
         return redirect(url_for('films'))
     else:
-        return redirect(url_for('series'))
+        return redirect(url_for('series')) ##changes
 
 
 @app.route('/films')
