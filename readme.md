@@ -18,9 +18,12 @@ Recommends a random movie or TV show from the world of MCU(Marvel Cinematic Univ
 
 * Extract the zip file to the folder
 * Open cmd and type following commands
-``` pip install -r requirements.txt \n```
-``` pip install flask \n```
-``` py main.py ```
+``` 
+pip install -r requirements.txt 
+pip install flask
+py main.py 
+
+```
 
 ## Website
 * coming soon
