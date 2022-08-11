@@ -18,7 +18,8 @@ Recommends a random movie or TV show from the world of MCU(Marvel Cinematic Univ
 
 * Extract the zip file to the folder
 * Open cmd and type following commands
-``` pip install -r requirements.txt ```
+``` pip install -r requirements.txt \n```
+``` pip install flask \n```
 ``` py main.py ```
 
 ## Website
@@ -28,6 +29,6 @@ Recommends a random movie or TV show from the world of MCU(Marvel Cinematic Univ
 
 ## Authors
 
-@Script-hpp
+@Script-hpp (me)
 
-and thanks @AugustoMarcelo for sharing this API
+and thanks to @AugustoMarcelo for sharing this API
